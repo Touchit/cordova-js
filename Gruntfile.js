@@ -31,6 +31,7 @@ module.exports = function(grunt) {
           "osx": {},
           "test": {},
           "windows8": { useWindowsLineEndings: true },
+          "windows81": { useWindowsLineEndings: true },
           "windowsphone": { useWindowsLineEndings: true },
           "firefoxos": {}
         },
